@@ -1,4 +1,4 @@
-# Header
+# import required librariers
 import numpy as np
 
 from numpy import fft 
